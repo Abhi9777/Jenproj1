@@ -1,7 +1,10 @@
 
-class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Welcome World!!!!!!!");
-   
- 	 }
- }
+
+
+  class Simple{  
+   public static void main(String args[]){  
+   System.out.println("Heodfddf Java");  
+ }  
+}  
+
+ 
